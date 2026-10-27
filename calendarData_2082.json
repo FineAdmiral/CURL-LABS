@@ -1,0 +1,3014 @@
+{
+  "2082": {
+    "1": {
+      "monthName": "बैशाख (April/May)",
+      "days": 31,
+      "daysData": {
+        "1": {
+          "engDate": "2025-04-14",
+          "weekday": "सो.",
+          "tithi": "1",
+          "nepaliDate": "2082-01-01",
+          "sunrise": "5:43",
+          "sunset": "18:28",
+          "events": [
+            {
+              "title": "Nepali New Year 2082",
+              "description": "Nepali New Year/Mesh Sankranti/Biska Jatra"
+            }
+          ]
+        },
+        "2": {
+          "engDate": "2025-04-15",
+          "weekday": "मं.",
+          "tithi": "2",
+          "nepaliDate": "2082-01-02",
+          "sunrise": "5:41",
+          "sunset": "18:28"
+        },
+        "3": {
+          "engDate": "2025-04-16",
+          "weekday": "बु.",
+          "tithi": "3",
+          "nepaliDate": "2082-01-03",
+          "sunrise": "5:40",
+          "sunset": "18:29"
+        },
+        "4": {
+          "engDate": "2025-04-17",
+          "weekday": "बि.",
+          "tithi": "4",
+          "nepaliDate": "2082-01-04",
+          "sunrise": "5:39",
+          "sunset": "18:29"
+        },
+        "5": {
+          "engDate": "2025-04-18",
+          "weekday": "शु.",
+          "tithi": "5",
+          "nepaliDate": "2082-01-05",
+          "sunrise": "5:38",
+          "sunset": "18:30"
+        },
+        "6": {
+          "engDate": "2025-04-19",
+          "weekday": "श.",
+          "tithi": "6",
+          "nepaliDate": "2082-01-06",
+          "sunrise": "5:37",
+          "sunset": "18:30"
+        },
+        "7": {
+          "engDate": "2025-04-20",
+          "weekday": "आ.",
+          "tithi": "7",
+          "nepaliDate": "2082-01-07",
+          "sunrise": "5:37",
+          "sunset": "18:31"
+        },
+        "8": {
+          "engDate": "2025-04-21",
+          "weekday": "सो.",
+          "tithi": "8",
+          "nepaliDate": "2082-01-08",
+          "sunrise": "5:36",
+          "sunset": "18:31"
+        },
+        "9": {
+          "engDate": "2025-04-22",
+          "weekday": "मं.",
+          "tithi": "9",
+          "nepaliDate": "2082-01-09",
+          "sunrise": "5:35",
+          "sunset": "18:32"
+        },
+        "10": {
+          "engDate": "2025-04-23",
+          "weekday": "बु.",
+          "tithi": "10",
+          "nepaliDate": "2082-01-10",
+          "sunrise": "5:34",
+          "sunset": "18:32"
+        },
+        "11": {
+          "engDate": "2025-04-24",
+          "weekday": "बि.",
+          "tithi": "11",
+          "nepaliDate": "2082-01-11",
+          "sunrise": "5:33",
+          "sunset": "18:33"
+        },
+        "12": {
+          "engDate": "2025-04-25",
+          "weekday": "शु.",
+          "tithi": "12",
+          "nepaliDate": "2082-01-12",
+          "sunrise": "5:32",
+          "sunset": "18:34"
+        },
+        "13": {
+          "engDate": "2025-04-26",
+          "weekday": "श.",
+          "tithi": "13",
+          "nepaliDate": "2082-01-13",
+          "sunrise": "5:31",
+          "sunset": "18:34"
+        },
+        "14": {
+          "engDate": "2025-04-27",
+          "weekday": "आ.",
+          "tithi": "14",
+          "nepaliDate": "2082-01-14",
+          "sunrise": "5:30",
+          "sunset": "18:35"
+        },
+        "15": {
+          "engDate": "2025-04-28",
+          "weekday": "सो.",
+          "tithi": "1",
+          "nepaliDate": "2082-01-15",
+          "sunrise": "5:29",
+          "sunset": "18:35"
+        },
+        "16": {
+          "engDate": "2025-04-29",
+          "weekday": "मं.",
+          "tithi": "2",
+          "nepaliDate": "2082-01-16",
+          "sunrise": "5:28",
+          "sunset": "18:36"
+        },
+        "17": {
+          "engDate": "2025-04-30",
+          "weekday": "बु.",
+          "tithi": "3",
+          "nepaliDate": "2082-01-17",
+          "sunrise": "5:28",
+          "sunset": "18:36"
+        },
+        "18": {
+          "engDate": "2025-05-01",
+          "weekday": "बि.",
+          "tithi": "4",
+          "nepaliDate": "2082-01-18",
+          "sunrise": "5:27",
+          "sunset": "18:37",
+          "events": [
+            {
+              "title": " International Labour Day/Bungadyo : Rato Matsyandranath Rath Yatra Prarambha",
+              "description": "वैशाख शुक्ल चतुर्थी\nअन्तर्राष्ट्रिय श्रमिक दिवस/बुंगद्यः (रातो मच्छिन्द्रनाथ) रथ यात्रा प्रारम्भ ( International Labour Day/Bungadyo : Rato Matsyandranath Rath Yatra Prarambha )"
+            }
+          ]
+        },
+        "19": {
+          "engDate": "2025-05-02",
+          "weekday": "शु.",
+          "tithi": "5",
+          "nepaliDate": "2082-01-19",
+          "sunrise": "5:26",
+          "sunset": "18:37"
+        },
+        "20": {
+          "engDate": "2025-05-03",
+          "weekday": "श.",
+          "tithi": "6",
+          "nepaliDate": "2082-01-20",
+          "sunrise": "5:25",
+          "sunset": "18:38"
+        },
+        "21": {
+          "engDate": "2025-05-04",
+          "weekday": "आ.",
+          "tithi": "7",
+          "nepaliDate": "2082-01-21",
+          "sunrise": "5:24",
+          "sunset": "18:39"
+        },
+        "22": {
+          "engDate": "2025-05-05",
+          "weekday": "सो.",
+          "tithi": "8",
+          "nepaliDate": "2082-01-22",
+          "sunrise": "5:24",
+          "sunset": "18:39"
+        },
+        "23": {
+          "engDate": "2025-05-06",
+          "weekday": "मं.",
+          "tithi": "9",
+          "nepaliDate": "2082-01-23",
+          "sunrise": "5:23",
+          "sunset": "18:40"
+        },
+        "24": {
+          "engDate": "2025-05-07",
+          "weekday": "बु.",
+          "tithi": "10",
+          "nepaliDate": "2082-01-24",
+          "sunrise": "5:22",
+          "sunset": "18:40"
+        },
+        "25": {
+          "engDate": "2025-05-08",
+          "weekday": "बि.",
+          "tithi": "11",
+          "nepaliDate": "2082-01-25",
+          "sunrise": "5:21",
+          "sunset": "18:41"
+        },
+        "26": {
+          "engDate": "2025-05-09",
+          "weekday": "शु.",
+          "tithi": "12",
+          "nepaliDate": "2082-01-26",
+          "sunrise": "5:21",
+          "sunset": "18:41"
+        },
+        "27": {
+          "engDate": "2025-05-10",
+          "weekday": "श.",
+          "tithi": "13",
+          "nepaliDate": "2082-01-27",
+          "sunrise": "5:20",
+          "sunset": "18:42"
+        },
+        "28": {
+          "engDate": "2025-05-11",
+          "weekday": "आ.",
+          "tithi": "14",
+          "nepaliDate": "2082-01-28",
+          "sunrise": "5:19",
+          "sunset": "18:43"
+        },
+        "29": {
+          "engDate": "2025-05-12",
+          "weekday": "सो.",
+          "tithi": "15",
+          "nepaliDate": "2082-01-29",
+          "sunrise": "5:19",
+          "sunset": "18:43",
+          "events": [
+            {
+              "title": " Buddha Jayanti/Ubhauli Parwa",
+              "description": " Buddha Jayanti/Ubhauli Parwa/Chandeshwari Jatra/Chandi Poornima/Kurma Jayanti/Gorakhnath Jayanti/Poornima Vrata/Baisakh Snan Samapti/International Nurses Day "
+            }
+          ]
+        },
+        "30": {
+          "engDate": "2025-05-13",
+          "weekday": "मं.",
+          "tithi": "1",
+          "nepaliDate": "2082-01-30",
+          "sunrise": "5:18",
+          "sunset": "18:44"
+        },
+        "31": {
+          "engDate": "2025-05-14",
+          "weekday": "बु.",
+          "tithi": "2",
+          "nepaliDate": "2082-01-31",
+          "sunrise": "5:18",
+          "sunset": "18:44"
+        }
+      }
+    },
+    "2": {
+      "monthName": "जेठ(May/June)",
+      "days": 31,
+      "daysData": {
+        "1": {
+          "engDate": "2025-05-15",
+          "weekday": "बि.",
+          "tithi": "3",
+          "nepaliDate": "2082-02-01",
+          "sunrise": "5:17",
+          "sunset": "18:45"
+        },
+        "2": {
+          "engDate": "2025-05-16",
+          "weekday": "शु.",
+          "tithi": "4",
+          "nepaliDate": "2082-02-02",
+          "sunrise": "5:16",
+          "sunset": "18:45"
+        },
+        "3": {
+          "engDate": "2025-05-17",
+          "weekday": "श.",
+          "tithi": "5",
+          "nepaliDate": "2082-02-03",
+          "sunrise": "5:16",
+          "sunset": "18:46"
+        },
+        "4": {
+          "engDate": "2025-05-18",
+          "weekday": "आ.",
+          "tithi": "6",
+          "nepaliDate": "2082-02-04",
+          "sunrise": "5:15",
+          "sunset": "18:46"
+        },
+        "5": {
+          "engDate": "2025-05-19",
+          "weekday": "सो.",
+          "tithi": "7",
+          "nepaliDate": "2082-02-05",
+          "sunrise": "5:15",
+          "sunset": "18:47"
+        },
+        "6": {
+          "engDate": "2025-05-20",
+          "weekday": "मं.",
+          "tithi": "8",
+          "nepaliDate": "2082-02-06",
+          "sunrise": "5:14",
+          "sunset": "18:48"
+        },
+        "7": {
+          "engDate": "2025-05-21",
+          "weekday": "बु.",
+          "tithi": "9",
+          "nepaliDate": "2082-02-07",
+          "sunrise": "5:14",
+          "sunset": "18:48"
+        },
+        "8": {
+          "engDate": "2025-05-22",
+          "weekday": "बि.",
+          "tithi": "10",
+          "nepaliDate": "2082-02-08",
+          "sunrise": "5:14",
+          "sunset": "18:49"
+        },
+        "9": {
+          "engDate": "2025-05-23",
+          "weekday": "शु.",
+          "tithi": "11",
+          "nepaliDate": "2082-02-09",
+          "sunrise": "5:13",
+          "sunset": "18:49"
+        },
+        "10": {
+          "engDate": "2025-05-24",
+          "weekday": "श.",
+          "tithi": "12",
+          "nepaliDate": "2082-02-10",
+          "sunrise": "5:13",
+          "sunset": "18:50"
+        },
+        "11": {
+          "engDate": "2025-05-25",
+          "weekday": "आ.",
+          "tithi": "13",
+          "nepaliDate": "2082-02-11",
+          "sunrise": "5:12",
+          "sunset": "18:50"
+        },
+        "12": {
+          "engDate": "2025-05-26",
+          "weekday": "सो.",
+          "tithi": "14",
+          "nepaliDate": "2082-02-12",
+          "sunrise": "5:12",
+          "sunset": "18:51"
+        },
+        "13": {
+          "engDate": "2025-05-27",
+          "weekday": "मं.",
+          "tithi": "30",
+          "nepaliDate": "2082-02-13",
+          "sunrise": "5:12",
+          "sunset": "18:51"
+        },
+        "14": {
+          "engDate": "2025-05-28",
+          "weekday": "बु.",
+          "tithi": "1",
+          "nepaliDate": "2082-02-14",
+          "sunrise": "5:11",
+          "sunset": "18:52"
+        },
+        "15": {
+          "engDate": "2025-05-29",
+          "weekday": "बि.",
+          "tithi": "2",
+          "nepaliDate": "2082-02-15",
+          "sunrise": "5:11",
+          "sunset": "18:52"
+        },
+        "16": {
+          "engDate": "2025-05-30",
+          "weekday": "शु.",
+          "tithi": "3",
+          "nepaliDate": "2082-02-16",
+          "sunrise": "5:11",
+          "sunset": "18:53"
+        },
+        "17": {
+          "engDate": "2025-05-31",
+          "weekday": "श.",
+          "tithi": "4",
+          "nepaliDate": "2082-02-17",
+          "sunrise": "5:11",
+          "sunset": "18:53"
+        },
+        "18": {
+          "engDate": "2025-06-01",
+          "weekday": "आ.",
+          "tithi": "5",
+          "nepaliDate": "2082-02-18",
+          "sunrise": "5:10",
+          "sunset": "18:54"
+        },
+        "19": {
+          "engDate": "2025-06-02",
+          "weekday": "सो.",
+          "tithi": "6",
+          "nepaliDate": "2082-02-19",
+          "sunrise": "5:10",
+          "sunset": "18:54"
+        },
+        "20": {
+          "engDate": "2025-06-03",
+          "weekday": "मं.",
+          "tithi": "7",
+          "nepaliDate": "2082-02-20",
+          "sunrise": "5:10",
+          "sunset": "18:55"
+        },
+        "21": {
+          "engDate": "2025-06-04",
+          "weekday": "बु.",
+          "tithi": "8",
+          "nepaliDate": "2082-02-21",
+          "sunrise": "5:10",
+          "sunset": "18:55"
+        },
+        "22": {
+          "engDate": "2025-06-05",
+          "weekday": "बि.",
+          "tithi": "9",
+          "nepaliDate": "2082-02-22",
+          "sunrise": "5:10",
+          "sunset": "18:56"
+        },
+        "23": {
+          "engDate": "2025-06-06",
+          "weekday": "शु.",
+          "tithi": "10",
+          "nepaliDate": "2082-02-23",
+          "sunrise": "5:10",
+          "sunset": "18:56"
+        },
+        "24": {
+          "engDate": "2025-06-07",
+          "weekday": "श.",
+          "tithi": "11",
+          "nepaliDate": "2082-02-24",
+          "sunrise": "5:10",
+          "sunset": "18:56"
+        },
+        "25": {
+          "engDate": "2025-06-08",
+          "weekday": "आ.",
+          "tithi": "12",
+          "nepaliDate": "2082-02-25",
+          "sunrise": "5:10",
+          "sunset": "18:57"
+        },
+        "26": {
+          "engDate": "2025-06-09",
+          "weekday": "सो.",
+          "tithi": "13",
+          "nepaliDate": "2082-02-26",
+          "sunrise": "5:9",
+          "sunset": "18:57"
+        },
+        "27": {
+          "engDate": "2025-06-10",
+          "weekday": "मं.",
+          "tithi": "14",
+          "nepaliDate": "2082-02-27",
+          "sunrise": "5:9",
+          "sunset": "18:58"
+        },
+        "28": {
+          "engDate": "2025-06-11",
+          "weekday": "बु.",
+          "tithi": "15",
+          "nepaliDate": "2082-02-28",
+          "sunrise": "5:9",
+          "sunset": "18:58"
+        },
+        "29": {
+          "engDate": "2025-06-12",
+          "weekday": "बि.",
+          "tithi": "1",
+          "nepaliDate": "2082-02-29",
+          "sunrise": "5:9",
+          "sunset": "18:58"
+        },
+        "30": {
+          "engDate": "2025-06-13",
+          "weekday": "शु.",
+          "tithi": "2",
+          "nepaliDate": "2082-02-30",
+          "sunrise": "5:9",
+          "sunset": "18:59"
+        },
+        "31": {
+          "engDate": "2025-06-14",
+          "weekday": "श.",
+          "tithi": "3",
+          "nepaliDate": "2082-02-31",
+          "sunrise": "5:10",
+          "sunset": "18:59"
+        }
+      }
+    },
+    "3": {
+      "monthName": "आषाढ (June / July)",
+      "days": 32,
+      "daysData": {
+        "1": {
+          "engDate": "2025-06-15",
+          "weekday": "आ.",
+          "tithi": "4",
+          "nepaliDate": "2082-03-01",
+          "sunrise": "5:10",
+          "sunset": "18:59"
+        },
+        "2": {
+          "engDate": "2025-06-16",
+          "weekday": "सो.",
+          "tithi": "5",
+          "nepaliDate": "2082-03-02",
+          "sunrise": "5:10",
+          "sunset": "19:0"
+        },
+        "3": {
+          "engDate": "2025-06-17",
+          "weekday": "मं.",
+          "tithi": "6",
+          "nepaliDate": "2082-03-03",
+          "sunrise": "5:10",
+          "sunset": "19:0"
+        },
+        "4": {
+          "engDate": "2025-06-18",
+          "weekday": "बु.",
+          "tithi": "7",
+          "nepaliDate": "2082-03-04",
+          "sunrise": "5:10",
+          "sunset": "19:0"
+        },
+        "5": {
+          "engDate": "2025-06-19",
+          "weekday": "बि.",
+          "tithi": "8",
+          "nepaliDate": "2082-03-05",
+          "sunrise": "5:10",
+          "sunset": "19:0"
+        },
+        "6": {
+          "engDate": "2025-06-20",
+          "weekday": "शु.",
+          "tithi": "9",
+          "nepaliDate": "2082-03-06",
+          "sunrise": "5:10",
+          "sunset": "19:1"
+        },
+        "7": {
+          "engDate": "2025-06-21",
+          "weekday": "श.",
+          "tithi": "11",
+          "nepaliDate": "2082-03-07",
+          "sunrise": "5:10",
+          "sunset": "19:1"
+        },
+        "8": {
+          "engDate": "2025-06-22",
+          "weekday": "आ.",
+          "tithi": "12",
+          "nepaliDate": "2082-03-08",
+          "sunrise": "5:11",
+          "sunset": "19:1"
+        },
+        "9": {
+          "engDate": "2025-06-23",
+          "weekday": "सो.",
+          "tithi": "13",
+          "nepaliDate": "2082-03-09",
+          "sunrise": "5:11",
+          "sunset": "19:1"
+        },
+        "10": {
+          "engDate": "2025-06-24",
+          "weekday": "मं.",
+          "tithi": "14",
+          "nepaliDate": "2082-03-10",
+          "sunrise": "5:11",
+          "sunset": "19:1"
+        },
+        "11": {
+          "engDate": "2025-06-25",
+          "weekday": "बु.",
+          "tithi": "30",
+          "nepaliDate": "2082-03-11",
+          "sunrise": "5:11",
+          "sunset": "19:1"
+        },
+        "12": {
+          "engDate": "2025-06-26",
+          "weekday": "बि.",
+          "tithi": "1",
+          "nepaliDate": "2082-03-12",
+          "sunrise": "5:12",
+          "sunset": "19:2"
+        },
+        "13": {
+          "engDate": "2025-06-27",
+          "weekday": "शु.",
+          "tithi": "2",
+          "nepaliDate": "2082-03-13",
+          "sunrise": "5:12",
+          "sunset": "19:2"
+        },
+        "14": {
+          "engDate": "2025-06-28",
+          "weekday": "श.",
+          "tithi": "3",
+          "nepaliDate": "2082-03-14",
+          "sunrise": "5:12",
+          "sunset": "19:2"
+        },
+        "15": {
+          "engDate": "2025-06-29",
+          "weekday": "आ.",
+          "tithi": "4",
+          "nepaliDate": "2082-03-15",
+          "sunrise": "5:12",
+          "sunset": "19:2"
+        },
+        "16": {
+          "engDate": "2025-06-30",
+          "weekday": "सो.",
+          "tithi": "5",
+          "nepaliDate": "2082-03-16",
+          "sunrise": "5:13",
+          "sunset": "19:2"
+        },
+        "17": {
+          "engDate": "2025-07-01",
+          "weekday": "मं.",
+          "tithi": "6",
+          "nepaliDate": "2082-03-17",
+          "sunrise": "5:13",
+          "sunset": "19:2"
+        },
+        "18": {
+          "engDate": "2025-07-02",
+          "weekday": "बु.",
+          "tithi": "7",
+          "nepaliDate": "2082-03-18",
+          "sunrise": "5:13",
+          "sunset": "19:2"
+        },
+        "19": {
+          "engDate": "2025-07-03",
+          "weekday": "बि.",
+          "tithi": "8",
+          "nepaliDate": "2082-03-19",
+          "sunrise": "5:14",
+          "sunset": "19:2"
+        },
+        "20": {
+          "engDate": "2025-07-04",
+          "weekday": "शु.",
+          "tithi": "9",
+          "nepaliDate": "2082-03-20",
+          "sunrise": "5:14",
+          "sunset": "19:2"
+        },
+        "21": {
+          "engDate": "2025-07-05",
+          "weekday": "श.",
+          "tithi": "10",
+          "nepaliDate": "2082-03-21",
+          "sunrise": "5:15",
+          "sunset": "19:2"
+        },
+        "22": {
+          "engDate": "2025-07-06",
+          "weekday": "आ.",
+          "tithi": "11",
+          "nepaliDate": "2082-03-22",
+          "sunrise": "5:15",
+          "sunset": "19:1"
+        },
+        "23": {
+          "engDate": "2025-07-07",
+          "weekday": "सो.",
+          "tithi": "12",
+          "nepaliDate": "2082-03-23",
+          "sunrise": "5:15",
+          "sunset": "19:1"
+        },
+        "24": {
+          "engDate": "2025-07-08",
+          "weekday": "मं.",
+          "tithi": "13",
+          "nepaliDate": "2082-03-24",
+          "sunrise": "5:16",
+          "sunset": "19:1"
+        },
+        "25": {
+          "engDate": "2025-07-09",
+          "weekday": "बु.",
+          "tithi": "14",
+          "nepaliDate": "2082-03-25",
+          "sunrise": "5:16",
+          "sunset": "19:1"
+        },
+        "26": {
+          "engDate": "2025-07-10",
+          "weekday": "बि.",
+          "tithi": "15",
+          "nepaliDate": "2082-03-26",
+          "sunrise": "5:17",
+          "sunset": "19:1"
+        },
+        "27": {
+          "engDate": "2025-07-11",
+          "weekday": "शु.",
+          "tithi": "1",
+          "nepaliDate": "2082-03-27",
+          "sunrise": "5:17",
+          "sunset": "19:1"
+        },
+        "28": {
+          "engDate": "2025-07-12",
+          "weekday": "श.",
+          "tithi": "2",
+          "nepaliDate": "2082-03-28",
+          "sunrise": "5:18",
+          "sunset": "19:0"
+        },
+        "29": {
+          "engDate": "2025-07-13",
+          "weekday": "आ.",
+          "tithi": "3",
+          "nepaliDate": "2082-03-29",
+          "sunrise": "5:18",
+          "sunset": "19:0"
+        },
+        "30": {
+          "engDate": "2025-07-14",
+          "weekday": "सो.",
+          "tithi": "4",
+          "nepaliDate": "2082-03-30",
+          "sunrise": "5:18",
+          "sunset": "19:0"
+        },
+        "31": {
+          "engDate": "2025-07-15",
+          "weekday": "मं.",
+          "tithi": "5",
+          "nepaliDate": "2082-03-31",
+          "sunrise": "5:19",
+          "sunset": "19:0"
+        },
+        "32": {
+          "engDate": "2025-07-16",
+          "weekday": "बु.",
+          "tithi": "6",
+          "nepaliDate": "2082-03-32",
+          "sunrise": "5:19",
+          "sunset": "18:59"
+        }
+      }
+    },
+    "4": {
+      "monthName": "श्रावण (July / August)",
+      "days": 31,
+      "daysData": {
+        "1": {
+          "engDate": "2025-07-17",
+          "weekday": "बि.",
+          "tithi": "7",
+          "nepaliDate": "2082-04-01",
+          "sunrise": "5:20",
+          "sunset": "18:59"
+        },
+        "2": {
+          "engDate": "2025-07-18",
+          "weekday": "शु.",
+          "tithi": "8",
+          "nepaliDate": "2082-04-02",
+          "sunrise": "5:20",
+          "sunset": "18:58"
+        },
+        "3": {
+          "engDate": "2025-07-19",
+          "weekday": "श.",
+          "tithi": "9",
+          "nepaliDate": "2082-04-03",
+          "sunrise": "5:21",
+          "sunset": "18:58"
+        },
+        "4": {
+          "engDate": "2025-07-20",
+          "weekday": "आ.",
+          "tithi": "10",
+          "nepaliDate": "2082-04-04",
+          "sunrise": "5:21",
+          "sunset": "18:58"
+        },
+        "5": {
+          "engDate": "2025-07-21",
+          "weekday": "सो.",
+          "tithi": "11",
+          "nepaliDate": "2082-04-05",
+          "sunrise": "5:22",
+          "sunset": "18:57"
+        },
+        "6": {
+          "engDate": "2025-07-22",
+          "weekday": "मं.",
+          "tithi": "12",
+          "nepaliDate": "2082-04-06",
+          "sunrise": "5:22",
+          "sunset": "18:57"
+        },
+        "7": {
+          "engDate": "2025-07-23",
+          "weekday": "बु.",
+          "tithi": "14",
+          "nepaliDate": "2082-04-07",
+          "sunrise": "5:23",
+          "sunset": "18:56"
+        },
+        "8": {
+          "engDate": "2025-07-24",
+          "weekday": "बि.",
+          "tithi": "30",
+          "nepaliDate": "2082-04-08",
+          "sunrise": "5:23",
+          "sunset": "18:56"
+        },
+        "9": {
+          "engDate": "2025-07-25",
+          "weekday": "शु.",
+          "tithi": "1",
+          "nepaliDate": "2082-04-09",
+          "sunrise": "5:24",
+          "sunset": "18:55"
+        },
+        "10": {
+          "engDate": "2025-07-26",
+          "weekday": "श.",
+          "tithi": "2",
+          "nepaliDate": "2082-04-10",
+          "sunrise": "5:24",
+          "sunset": "18:55"
+        },
+        "11": {
+          "engDate": "2025-07-27",
+          "weekday": "आ.",
+          "tithi": "3",
+          "nepaliDate": "2082-04-11",
+          "sunrise": "5:25",
+          "sunset": "18:54"
+        },
+        "12": {
+          "engDate": "2025-07-28",
+          "weekday": "सो.",
+          "tithi": "4",
+          "nepaliDate": "2082-04-12",
+          "sunrise": "5:25",
+          "sunset": "18:54"
+        },
+        "13": {
+          "engDate": "2025-07-29",
+          "weekday": "मं.",
+          "tithi": "5",
+          "nepaliDate": "2082-04-13",
+          "sunrise": "5:26",
+          "sunset": "18:53"
+        },
+        "14": {
+          "engDate": "2025-07-30",
+          "weekday": "बु.",
+          "tithi": "6",
+          "nepaliDate": "2082-04-14",
+          "sunrise": "5:26",
+          "sunset": "18:52"
+        },
+        "15": {
+          "engDate": "2025-07-31",
+          "weekday": "बि.",
+          "tithi": "7",
+          "nepaliDate": "2082-04-15",
+          "sunrise": "5:27",
+          "sunset": "18:52"
+        },
+        "16": {
+          "engDate": "2025-08-01",
+          "weekday": "शु.",
+          "tithi": "8",
+          "nepaliDate": "2082-04-16",
+          "sunrise": "5:27",
+          "sunset": "18:51"
+        },
+        "17": {
+          "engDate": "2025-08-02",
+          "weekday": "श.",
+          "tithi": "8",
+          "nepaliDate": "2082-04-17",
+          "sunrise": "5:28",
+          "sunset": "18:50"
+        },
+        "18": {
+          "engDate": "2025-08-03",
+          "weekday": "आ.",
+          "tithi": "9",
+          "nepaliDate": "2082-04-18",
+          "sunrise": "5:29",
+          "sunset": "18:50"
+        },
+        "19": {
+          "engDate": "2025-08-04",
+          "weekday": "सो.",
+          "tithi": "10",
+          "nepaliDate": "2082-04-19",
+          "sunrise": "5:29",
+          "sunset": "18:49"
+        },
+        "20": {
+          "engDate": "2025-08-05",
+          "weekday": "मं.",
+          "tithi": "11",
+          "nepaliDate": "2082-04-20",
+          "sunrise": "5:30",
+          "sunset": "18:48"
+        },
+        "21": {
+          "engDate": "2025-08-06",
+          "weekday": "बु.",
+          "tithi": "12",
+          "nepaliDate": "2082-04-21",
+          "sunrise": "5:30",
+          "sunset": "18:48"
+        },
+        "22": {
+          "engDate": "2025-08-07",
+          "weekday": "बि.",
+          "tithi": "13",
+          "nepaliDate": "2082-04-22",
+          "sunrise": "5:31",
+          "sunset": "18:47"
+        },
+        "23": {
+          "engDate": "2025-08-08",
+          "weekday": "शु.",
+          "tithi": "14",
+          "nepaliDate": "2082-04-23",
+          "sunrise": "5:31",
+          "sunset": "18:46"
+        },
+        "24": {
+          "engDate": "2025-08-09",
+          "weekday": "श.",
+          "tithi": "15",
+          "nepaliDate": "2082-04-24",
+          "sunrise": "5:32",
+          "sunset": "18:45"
+        },
+        "25": {
+          "engDate": "2025-08-10",
+          "weekday": "आ.",
+          "tithi": "1",
+          "nepaliDate": "2082-04-25",
+          "sunrise": "5:32",
+          "sunset": "18:44"
+        },
+        "26": {
+          "engDate": "2025-08-11",
+          "weekday": "सो.",
+          "tithi": "2",
+          "nepaliDate": "2082-04-26",
+          "sunrise": "5:33",
+          "sunset": "18:44"
+        },
+        "27": {
+          "engDate": "2025-08-12",
+          "weekday": "मं.",
+          "tithi": "3",
+          "nepaliDate": "2082-04-27",
+          "sunrise": "5:33",
+          "sunset": "18:43"
+        },
+        "28": {
+          "engDate": "2025-08-13",
+          "weekday": "बु.",
+          "tithi": "4",
+          "nepaliDate": "2082-04-28",
+          "sunrise": "5:34",
+          "sunset": "18:42"
+        },
+        "29": {
+          "engDate": "2025-08-14",
+          "weekday": "बि.",
+          "tithi": "5",
+          "nepaliDate": "2082-04-29",
+          "sunrise": "5:34",
+          "sunset": "18:41"
+        },
+        "30": {
+          "engDate": "2025-08-15",
+          "weekday": "शु.",
+          "tithi": "7",
+          "nepaliDate": "2082-04-30",
+          "sunrise": "5:35",
+          "sunset": "18:40"
+        },
+        "31": {
+          "engDate": "2025-08-16",
+          "weekday": "श.",
+          "tithi": "8",
+          "nepaliDate": "2082-04-31",
+          "sunrise": "5:35",
+          "sunset": "18:39"
+        }
+      }
+    },
+    "5": {
+      "monthName": "भाद्र (Aug / Sept)",
+      "days": 31,
+      "daysData": {
+        "1": {
+          "engDate": "2025-08-17",
+          "weekday": "आ.",
+          "tithi": "9",
+          "nepaliDate": "2082-05-01",
+          "sunrise": "5:36",
+          "sunset": "18:38"
+        },
+        "2": {
+          "engDate": "2025-08-18",
+          "weekday": "सो.",
+          "tithi": "10",
+          "nepaliDate": "2082-05-02",
+          "sunrise": "5:36",
+          "sunset": "18:37"
+        },
+        "3": {
+          "engDate": "2025-08-19",
+          "weekday": "मं.",
+          "tithi": "11",
+          "nepaliDate": "2082-05-03",
+          "sunrise": "5:37",
+          "sunset": "18:36"
+        },
+        "4": {
+          "engDate": "2025-08-20",
+          "weekday": "बु.",
+          "tithi": "12",
+          "nepaliDate": "2082-05-04",
+          "sunrise": "5:37",
+          "sunset": "18:35"
+        },
+        "5": {
+          "engDate": "2025-08-21",
+          "weekday": "बि.",
+          "tithi": "13",
+          "nepaliDate": "2082-05-05",
+          "sunrise": "5:38",
+          "sunset": "18:34"
+        },
+        "6": {
+          "engDate": "2025-08-22",
+          "weekday": "शु.",
+          "tithi": "14",
+          "nepaliDate": "2082-05-06",
+          "sunrise": "5:38",
+          "sunset": "18:33"
+        },
+        "7": {
+          "engDate": "2025-08-23",
+          "weekday": "श.",
+          "tithi": "30",
+          "nepaliDate": "2082-05-07",
+          "sunrise": "5:39",
+          "sunset": "18:32"
+        },
+        "8": {
+          "engDate": "2025-08-24",
+          "weekday": "आ.",
+          "tithi": "1",
+          "nepaliDate": "2082-05-08",
+          "sunrise": "5:39",
+          "sunset": "18:31"
+        },
+        "9": {
+          "engDate": "2025-08-25",
+          "weekday": "सो.",
+          "tithi": "2",
+          "nepaliDate": "2082-05-09",
+          "sunrise": "5:40",
+          "sunset": "18:30"
+        },
+        "10": {
+          "engDate": "2025-08-26",
+          "weekday": "मं.",
+          "tithi": "3",
+          "nepaliDate": "2082-05-10",
+          "sunrise": "5:40",
+          "sunset": "18:29"
+        },
+        "11": {
+          "engDate": "2025-08-27",
+          "weekday": "बु.",
+          "tithi": "4",
+          "nepaliDate": "2082-05-11",
+          "sunrise": "5:40",
+          "sunset": "18:28"
+        },
+        "12": {
+          "engDate": "2025-08-28",
+          "weekday": "बि.",
+          "tithi": "5",
+          "nepaliDate": "2082-05-12",
+          "sunrise": "5:41",
+          "sunset": "18:27"
+        },
+        "13": {
+          "engDate": "2025-08-29",
+          "weekday": "शु.",
+          "tithi": "6",
+          "nepaliDate": "2082-05-13",
+          "sunrise": "5:41",
+          "sunset": "18:26"
+        },
+        "14": {
+          "engDate": "2025-08-30",
+          "weekday": "श.",
+          "tithi": "7",
+          "nepaliDate": "2082-05-14",
+          "sunrise": "5:42",
+          "sunset": "18:25"
+        },
+        "15": {
+          "engDate": "2025-08-31",
+          "weekday": "आ.",
+          "tithi": "8",
+          "nepaliDate": "2082-05-15",
+          "sunrise": "5:42",
+          "sunset": "18:24"
+        },
+        "16": {
+          "engDate": "2025-09-01",
+          "weekday": "सो.",
+          "tithi": "9",
+          "nepaliDate": "2082-05-16",
+          "sunrise": "5:43",
+          "sunset": "18:23"
+        },
+        "17": {
+          "engDate": "2025-09-02",
+          "weekday": "मं.",
+          "tithi": "10",
+          "nepaliDate": "2082-05-17",
+          "sunrise": "5:43",
+          "sunset": "18:22"
+        },
+        "18": {
+          "engDate": "2025-09-03",
+          "weekday": "बु.",
+          "tithi": "11",
+          "nepaliDate": "2082-05-18",
+          "sunrise": "5:44",
+          "sunset": "18:21"
+        },
+        "19": {
+          "engDate": "2025-09-04",
+          "weekday": "बि.",
+          "tithi": "12",
+          "nepaliDate": "2082-05-19",
+          "sunrise": "5:44",
+          "sunset": "18:19"
+        },
+        "20": {
+          "engDate": "2025-09-05",
+          "weekday": "शु.",
+          "tithi": "13",
+          "nepaliDate": "2082-05-20",
+          "sunrise": "5:45",
+          "sunset": "18:18"
+        },
+        "21": {
+          "engDate": "2025-09-06",
+          "weekday": "श.",
+          "tithi": "14",
+          "nepaliDate": "2082-05-21",
+          "sunrise": "5:45",
+          "sunset": "18:17"
+        },
+        "22": {
+          "engDate": "2025-09-07",
+          "weekday": "आ.",
+          "tithi": "15",
+          "nepaliDate": "2082-05-22",
+          "sunrise": "5:46",
+          "sunset": "18:16"
+        },
+        "23": {
+          "engDate": "2025-09-08",
+          "weekday": "सो.",
+          "tithi": "1",
+          "nepaliDate": "2082-05-23",
+          "sunrise": "5:46",
+          "sunset": "18:15"
+        },
+        "24": {
+          "engDate": "2025-09-09",
+          "weekday": "मं.",
+          "tithi": "2",
+          "nepaliDate": "2082-05-24",
+          "sunrise": "5:46",
+          "sunset": "18:14"
+        },
+        "25": {
+          "engDate": "2025-09-10",
+          "weekday": "बु.",
+          "tithi": "3",
+          "nepaliDate": "2082-05-25",
+          "sunrise": "5:47",
+          "sunset": "18:13"
+        },
+        "26": {
+          "engDate": "2025-09-11",
+          "weekday": "बि.",
+          "tithi": "4",
+          "nepaliDate": "2082-05-26",
+          "sunrise": "5:47",
+          "sunset": "18:11"
+        },
+        "27": {
+          "engDate": "2025-09-12",
+          "weekday": "शु.",
+          "tithi": "5",
+          "nepaliDate": "2082-05-27",
+          "sunrise": "5:48",
+          "sunset": "18:10"
+        },
+        "28": {
+          "engDate": "2025-09-13",
+          "weekday": "श.",
+          "tithi": "6",
+          "nepaliDate": "2082-05-28",
+          "sunrise": "5:48",
+          "sunset": "18:9"
+        },
+        "29": {
+          "engDate": "2025-09-14",
+          "weekday": "आ.",
+          "tithi": "7",
+          "nepaliDate": "2082-05-29",
+          "sunrise": "5:49",
+          "sunset": "18:8"
+        },
+        "30": {
+          "engDate": "2025-09-15",
+          "weekday": "सो.",
+          "tithi": "8",
+          "nepaliDate": "2082-05-30",
+          "sunrise": "5:49",
+          "sunset": "18:7"
+        },
+        "31": {
+          "engDate": "2025-09-16",
+          "weekday": "मं.",
+          "tithi": "10",
+          "nepaliDate": "2082-05-31",
+          "sunrise": "5:50",
+          "sunset": "18:6"
+        }
+      }
+    },
+    "6": {
+      "monthName": "असोज (Sept / Oct)",
+      "days": 31,
+      "daysData": {
+        "1": {
+          "engDate": "2025-09-17",
+          "weekday": "बु.",
+          "tithi": "11",
+          "nepaliDate": "2082-06-01",
+          "sunrise": "5:50",
+          "sunset": "18:4"
+        },
+        "2": {
+          "engDate": "2025-09-18",
+          "weekday": "बि.",
+          "tithi": "12",
+          "nepaliDate": "2082-06-02",
+          "sunrise": "5:51",
+          "sunset": "18:3"
+        },
+        "3": {
+          "engDate": "2025-09-19",
+          "weekday": "शु.",
+          "tithi": "13",
+          "nepaliDate": "2082-06-03",
+          "sunrise": "5:51",
+          "sunset": "18:2"
+        },
+        "4": {
+          "engDate": "2025-09-20",
+          "weekday": "श.",
+          "tithi": "14",
+          "nepaliDate": "2082-06-04",
+          "sunrise": "5:51",
+          "sunset": "18:1"
+        },
+        "5": {
+          "engDate": "2025-09-21",
+          "weekday": "आ.",
+          "tithi": "30",
+          "nepaliDate": "2082-06-05",
+          "sunrise": "5:52",
+          "sunset": "18:0"
+        },
+        "6": {
+          "engDate": "2025-09-22",
+          "weekday": "सो.",
+          "tithi": "1",
+          "nepaliDate": "2082-06-06",
+          "sunrise": "5:52",
+          "sunset": "17:59"
+        },
+        "7": {
+          "engDate": "2025-09-23",
+          "weekday": "मं.",
+          "tithi": "2",
+          "nepaliDate": "2082-06-07",
+          "sunrise": "5:53",
+          "sunset": "17:57"
+        },
+        "8": {
+          "engDate": "2025-09-24",
+          "weekday": "बु.",
+          "tithi": "3",
+          "nepaliDate": "2082-06-08",
+          "sunrise": "5:53",
+          "sunset": "17:56"
+        },
+        "9": {
+          "engDate": "2025-09-25",
+          "weekday": "बि.",
+          "tithi": "4",
+          "nepaliDate": "2082-06-09",
+          "sunrise": "5:54",
+          "sunset": "17:55"
+        },
+        "10": {
+          "engDate": "2025-09-26",
+          "weekday": "शु.",
+          "tithi": "4",
+          "nepaliDate": "2082-06-10",
+          "sunrise": "5:54",
+          "sunset": "17:54"
+        },
+        "11": {
+          "engDate": "2025-09-27",
+          "weekday": "श.",
+          "tithi": "5",
+          "nepaliDate": "2082-06-11",
+          "sunrise": "5:55",
+          "sunset": "17:53"
+        },
+        "12": {
+          "engDate": "2025-09-28",
+          "weekday": "आ.",
+          "tithi": "6",
+          "nepaliDate": "2082-06-12",
+          "sunrise": "5:55",
+          "sunset": "17:52"
+        },
+        "13": {
+          "engDate": "2025-09-29",
+          "weekday": "सो.",
+          "tithi": "7",
+          "nepaliDate": "2082-06-13",
+          "sunrise": "5:56",
+          "sunset": "17:50"
+        },
+        "14": {
+          "engDate": "2025-09-30",
+          "weekday": "मं.",
+          "tithi": "8",
+          "nepaliDate": "2082-06-14",
+          "sunrise": "5:56",
+          "sunset": "17:49"
+        },
+        "15": {
+          "engDate": "2025-10-01",
+          "weekday": "बु.",
+          "tithi": "9",
+          "nepaliDate": "2082-06-15",
+          "sunrise": "5:57",
+          "sunset": "17:48"
+        },
+        "16": {
+          "engDate": "2025-10-02",
+          "weekday": "बि.",
+          "tithi": "10",
+          "nepaliDate": "2082-06-16",
+          "sunrise": "5:57",
+          "sunset": "17:47"
+        },
+        "17": {
+          "engDate": "2025-10-03",
+          "weekday": "शु.",
+          "tithi": "11",
+          "nepaliDate": "2082-06-17",
+          "sunrise": "5:58",
+          "sunset": "17:46"
+        },
+        "18": {
+          "engDate": "2025-10-04",
+          "weekday": "श.",
+          "tithi": "12",
+          "nepaliDate": "2082-06-18",
+          "sunrise": "5:58",
+          "sunset": "17:45"
+        },
+        "19": {
+          "engDate": "2025-10-05",
+          "weekday": "आ.",
+          "tithi": "13",
+          "nepaliDate": "2082-06-19",
+          "sunrise": "5:59",
+          "sunset": "17:44"
+        },
+        "20": {
+          "engDate": "2025-10-06",
+          "weekday": "सो.",
+          "tithi": "14",
+          "nepaliDate": "2082-06-20",
+          "sunrise": "5:59",
+          "sunset": "17:43"
+        },
+        "21": {
+          "engDate": "2025-10-07",
+          "weekday": "मं.",
+          "tithi": "15",
+          "nepaliDate": "2082-06-21",
+          "sunrise": "6:0",
+          "sunset": "17:42"
+        },
+        "22": {
+          "engDate": "2025-10-08",
+          "weekday": "बु.",
+          "tithi": "1",
+          "nepaliDate": "2082-06-22",
+          "sunrise": "6:0",
+          "sunset": "17:40"
+        },
+        "23": {
+          "engDate": "2025-10-09",
+          "weekday": "बि.",
+          "tithi": "3",
+          "nepaliDate": "2082-06-23",
+          "sunrise": "6:1",
+          "sunset": "17:39"
+        },
+        "24": {
+          "engDate": "2025-10-10",
+          "weekday": "शु.",
+          "tithi": "4",
+          "nepaliDate": "2082-06-24",
+          "sunrise": "6:1",
+          "sunset": "17:38"
+        },
+        "25": {
+          "engDate": "2025-10-11",
+          "weekday": "श.",
+          "tithi": "5",
+          "nepaliDate": "2082-06-25",
+          "sunrise": "6:2",
+          "sunset": "17:37"
+        },
+        "26": {
+          "engDate": "2025-10-12",
+          "weekday": "आ.",
+          "tithi": "6",
+          "nepaliDate": "2082-06-26",
+          "sunrise": "6:3",
+          "sunset": "17:36"
+        },
+        "27": {
+          "engDate": "2025-10-13",
+          "weekday": "सो.",
+          "tithi": "7",
+          "nepaliDate": "2082-06-27",
+          "sunrise": "6:3",
+          "sunset": "17:35"
+        },
+        "28": {
+          "engDate": "2025-10-14",
+          "weekday": "मं.",
+          "tithi": "8",
+          "nepaliDate": "2082-06-28",
+          "sunrise": "6:4",
+          "sunset": "17:34"
+        },
+        "29": {
+          "engDate": "2025-10-15",
+          "weekday": "बु.",
+          "tithi": "9",
+          "nepaliDate": "2082-06-29",
+          "sunrise": "6:4",
+          "sunset": "17:33"
+        },
+        "30": {
+          "engDate": "2025-10-16",
+          "weekday": "बि.",
+          "tithi": "10",
+          "nepaliDate": "2082-06-30",
+          "sunrise": "6:5",
+          "sunset": "17:32"
+        },
+        "31": {
+          "engDate": "2025-10-17",
+          "weekday": "शु.",
+          "tithi": "11",
+          "nepaliDate": "2082-06-31",
+          "sunrise": "6:5",
+          "sunset": "17:31"
+        }
+      }
+    },
+    "7": {
+      "monthName": "कार्तिक(Oct / Nov)",
+      "days": 30,
+      "daysData": {
+        "1": {
+          "engDate": "2025-10-18",
+          "weekday": "श.",
+          "tithi": "12",
+          "nepaliDate": "2082-07-01",
+          "sunrise": "6:6",
+          "sunset": "17:30"
+        },
+        "2": {
+          "engDate": "2025-10-19",
+          "weekday": "आ.",
+          "tithi": "13",
+          "nepaliDate": "2082-07-02",
+          "sunrise": "6:7",
+          "sunset": "17:29"
+        },
+        "3": {
+          "engDate": "2025-10-20",
+          "weekday": "सो.",
+          "tithi": "14",
+          "nepaliDate": "2082-07-03",
+          "sunrise": "6:7",
+          "sunset": "17:28"
+        },
+        "4": {
+          "engDate": "2025-10-21",
+          "weekday": "मं.",
+          "tithi": "30",
+          "nepaliDate": "2082-07-04",
+          "sunrise": "6:8",
+          "sunset": "17:27"
+        },
+        "5": {
+          "engDate": "2025-10-22",
+          "weekday": "बु.",
+          "tithi": "1",
+          "nepaliDate": "2082-07-05",
+          "sunrise": "6:8",
+          "sunset": "17:26"
+        },
+        "6": {
+          "engDate": "2025-10-23",
+          "weekday": "बि.",
+          "tithi": "2",
+          "nepaliDate": "2082-07-06",
+          "sunrise": "6:9",
+          "sunset": "17:25"
+        },
+        "7": {
+          "engDate": "2025-10-24",
+          "weekday": "शु.",
+          "tithi": "3",
+          "nepaliDate": "2082-07-07",
+          "sunrise": "6:10",
+          "sunset": "17:24"
+        },
+        "8": {
+          "engDate": "2025-10-25",
+          "weekday": "श.",
+          "tithi": "4",
+          "nepaliDate": "2082-07-08",
+          "sunrise": "6:10",
+          "sunset": "17:24"
+        },
+        "9": {
+          "engDate": "2025-10-26",
+          "weekday": "आ.",
+          "tithi": "5",
+          "nepaliDate": "2082-07-09",
+          "sunrise": "6:11",
+          "sunset": "17:23"
+        },
+        "10": {
+          "engDate": "2025-10-27",
+          "weekday": "सो.",
+          "tithi": "6",
+          "nepaliDate": "2082-07-10",
+          "sunrise": "6:12",
+          "sunset": "17:22"
+        },
+        "11": {
+          "engDate": "2025-10-28",
+          "weekday": "मं.",
+          "tithi": "7",
+          "nepaliDate": "2082-07-11",
+          "sunrise": "6:12",
+          "sunset": "17:21"
+        },
+        "12": {
+          "engDate": "2025-10-29",
+          "weekday": "बु.",
+          "tithi": "8",
+          "nepaliDate": "2082-07-12",
+          "sunrise": "6:13",
+          "sunset": "17:20"
+        },
+        "13": {
+          "engDate": "2025-10-30",
+          "weekday": "बि.",
+          "tithi": "9",
+          "nepaliDate": "2082-07-13",
+          "sunrise": "6:14",
+          "sunset": "17:19"
+        },
+        "14": {
+          "engDate": "2025-10-31",
+          "weekday": "शु.",
+          "tithi": "10",
+          "nepaliDate": "2082-07-14",
+          "sunrise": "6:14",
+          "sunset": "17:19"
+        },
+        "15": {
+          "engDate": "2025-11-01",
+          "weekday": "श.",
+          "tithi": "11",
+          "nepaliDate": "2082-07-15",
+          "sunrise": "6:15",
+          "sunset": "17:18"
+        },
+        "16": {
+          "engDate": "2025-11-02",
+          "weekday": "आ.",
+          "tithi": "12",
+          "nepaliDate": "2082-07-16",
+          "sunrise": "6:16",
+          "sunset": "17:17"
+        },
+        "17": {
+          "engDate": "2025-11-03",
+          "weekday": "सो.",
+          "tithi": "13",
+          "nepaliDate": "2082-07-17",
+          "sunrise": "6:17",
+          "sunset": "17:17"
+        },
+        "18": {
+          "engDate": "2025-11-04",
+          "weekday": "मं.",
+          "tithi": "14",
+          "nepaliDate": "2082-07-18",
+          "sunrise": "6:17",
+          "sunset": "17:16"
+        },
+        "19": {
+          "engDate": "2025-11-05",
+          "weekday": "बु.",
+          "tithi": "15",
+          "nepaliDate": "2082-07-19",
+          "sunrise": "6:18",
+          "sunset": "17:15"
+        },
+        "20": {
+          "engDate": "2025-11-06",
+          "weekday": "बि.",
+          "tithi": "1",
+          "nepaliDate": "2082-07-20",
+          "sunrise": "6:19",
+          "sunset": "17:15"
+        },
+        "21": {
+          "engDate": "2025-11-07",
+          "weekday": "शु.",
+          "tithi": "2",
+          "nepaliDate": "2082-07-21",
+          "sunrise": "6:19",
+          "sunset": "17:14"
+        },
+        "22": {
+          "engDate": "2025-11-08",
+          "weekday": "श.",
+          "tithi": "3",
+          "nepaliDate": "2082-07-22",
+          "sunrise": "6:20",
+          "sunset": "17:13"
+        },
+        "23": {
+          "engDate": "2025-11-09",
+          "weekday": "आ.",
+          "tithi": "4",
+          "nepaliDate": "2082-07-23",
+          "sunrise": "6:21",
+          "sunset": "17:13"
+        },
+        "24": {
+          "engDate": "2025-11-10",
+          "weekday": "सो.",
+          "tithi": "5",
+          "nepaliDate": "2082-07-24",
+          "sunrise": "6:22",
+          "sunset": "17:12"
+        },
+        "25": {
+          "engDate": "2025-11-11",
+          "weekday": "मं.",
+          "tithi": "6",
+          "nepaliDate": "2082-07-25",
+          "sunrise": "6:23",
+          "sunset": "17:12"
+        },
+        "26": {
+          "engDate": "2025-11-12",
+          "weekday": "बु.",
+          "tithi": "8",
+          "nepaliDate": "2082-07-26",
+          "sunrise": "6:23",
+          "sunset": "17:11"
+        },
+        "27": {
+          "engDate": "2025-11-13",
+          "weekday": "बि.",
+          "tithi": "9",
+          "nepaliDate": "2082-07-27",
+          "sunrise": "6:24",
+          "sunset": "17:11"
+        },
+        "28": {
+          "engDate": "2025-11-14",
+          "weekday": "शु.",
+          "tithi": "10",
+          "nepaliDate": "2082-07-28",
+          "sunrise": "6:25",
+          "sunset": "17:10"
+        },
+        "29": {
+          "engDate": "2025-11-15",
+          "weekday": "श.",
+          "tithi": "11",
+          "nepaliDate": "2082-07-29",
+          "sunrise": "6:26",
+          "sunset": "17:10"
+        },
+        "30": {
+          "engDate": "2025-11-16",
+          "weekday": "आ.",
+          "tithi": "12",
+          "nepaliDate": "2082-07-30",
+          "sunrise": "6:26",
+          "sunset": "17:9"
+        }
+      }
+    },
+    "8": {
+      "monthName": "मंसिर(Nov / Dec)",
+      "days": 29,
+      "daysData": {
+        "1": {
+          "engDate": "2025-11-17",
+          "weekday": "सो.",
+          "tithi": "13",
+          "nepaliDate": "2082-08-01",
+          "sunrise": "6:27",
+          "sunset": "17:9"
+        },
+        "2": {
+          "engDate": "2025-11-18",
+          "weekday": "मं.",
+          "tithi": "13",
+          "nepaliDate": "2082-08-02",
+          "sunrise": "6:28",
+          "sunset": "17:9"
+        },
+        "3": {
+          "engDate": "2025-11-19",
+          "weekday": "बु.",
+          "tithi": "14",
+          "nepaliDate": "2082-08-03",
+          "sunrise": "6:29",
+          "sunset": "17:8"
+        },
+        "4": {
+          "engDate": "2025-11-20",
+          "weekday": "बि.",
+          "tithi": "30",
+          "nepaliDate": "2082-08-04",
+          "sunrise": "6:30",
+          "sunset": "17:8"
+        },
+        "5": {
+          "engDate": "2025-11-21",
+          "weekday": "शु.",
+          "tithi": "1",
+          "nepaliDate": "2082-08-05",
+          "sunrise": "6:30",
+          "sunset": "17:8"
+        },
+        "6": {
+          "engDate": "2025-11-22",
+          "weekday": "श.",
+          "tithi": "2",
+          "nepaliDate": "2082-08-06",
+          "sunrise": "6:31",
+          "sunset": "17:7"
+        },
+        "7": {
+          "engDate": "2025-11-23",
+          "weekday": "आ.",
+          "tithi": "3",
+          "nepaliDate": "2082-08-07",
+          "sunrise": "6:32",
+          "sunset": "17:7"
+        },
+        "8": {
+          "engDate": "2025-11-24",
+          "weekday": "सो.",
+          "tithi": "4",
+          "nepaliDate": "2082-08-08",
+          "sunrise": "6:33",
+          "sunset": "17:7"
+        },
+        "9": {
+          "engDate": "2025-11-25",
+          "weekday": "मं.",
+          "tithi": "5",
+          "nepaliDate": "2082-08-09",
+          "sunrise": "6:34",
+          "sunset": "17:7"
+        },
+        "10": {
+          "engDate": "2025-11-26",
+          "weekday": "बु.",
+          "tithi": "6",
+          "nepaliDate": "2082-08-10",
+          "sunrise": "6:34",
+          "sunset": "17:7"
+        },
+        "11": {
+          "engDate": "2025-11-27",
+          "weekday": "बि.",
+          "tithi": "7",
+          "nepaliDate": "2082-08-11",
+          "sunrise": "6:35",
+          "sunset": "17:7"
+        },
+        "12": {
+          "engDate": "2025-11-28",
+          "weekday": "शु.",
+          "tithi": "8",
+          "nepaliDate": "2082-08-12",
+          "sunrise": "6:36",
+          "sunset": "17:6"
+        },
+        "13": {
+          "engDate": "2025-11-29",
+          "weekday": "श.",
+          "tithi": "9",
+          "nepaliDate": "2082-08-13",
+          "sunrise": "6:37",
+          "sunset": "17:6"
+        },
+        "14": {
+          "engDate": "2025-11-30",
+          "weekday": "आ.",
+          "tithi": "10",
+          "nepaliDate": "2082-08-14",
+          "sunrise": "6:37",
+          "sunset": "17:6"
+        },
+        "15": {
+          "engDate": "2025-12-01",
+          "weekday": "सो.",
+          "tithi": "11",
+          "nepaliDate": "2082-08-15",
+          "sunrise": "6:38",
+          "sunset": "17:6"
+        },
+        "16": {
+          "engDate": "2025-12-02",
+          "weekday": "मं.",
+          "tithi": "12",
+          "nepaliDate": "2082-08-16",
+          "sunrise": "6:39",
+          "sunset": "17:6"
+        },
+        "17": {
+          "engDate": "2025-12-03",
+          "weekday": "बु.",
+          "tithi": "13",
+          "nepaliDate": "2082-08-17",
+          "sunrise": "6:40",
+          "sunset": "17:6"
+        },
+        "18": {
+          "engDate": "2025-12-04",
+          "weekday": "बि.",
+          "tithi": "14",
+          "nepaliDate": "2082-08-18",
+          "sunrise": "6:41",
+          "sunset": "17:6"
+        },
+        "19": {
+          "engDate": "2025-12-05",
+          "weekday": "शु.",
+          "tithi": "1",
+          "nepaliDate": "2082-08-19",
+          "sunrise": "6:41",
+          "sunset": "17:7"
+        },
+        "20": {
+          "engDate": "2025-12-06",
+          "weekday": "श.",
+          "tithi": "2",
+          "nepaliDate": "2082-08-20",
+          "sunrise": "6:42",
+          "sunset": "17:7"
+        },
+        "21": {
+          "engDate": "2025-12-07",
+          "weekday": "आ.",
+          "tithi": "3",
+          "nepaliDate": "2082-08-21",
+          "sunrise": "6:43",
+          "sunset": "17:7"
+        },
+        "22": {
+          "engDate": "2025-12-08",
+          "weekday": "सो.",
+          "tithi": "4",
+          "nepaliDate": "2082-08-22",
+          "sunrise": "6:44",
+          "sunset": "17:7"
+        },
+        "23": {
+          "engDate": "2025-12-09",
+          "weekday": "मं.",
+          "tithi": "5",
+          "nepaliDate": "2082-08-23",
+          "sunrise": "6:44",
+          "sunset": "17:7"
+        },
+        "24": {
+          "engDate": "2025-12-10",
+          "weekday": "बु.",
+          "tithi": "6",
+          "nepaliDate": "2082-08-24",
+          "sunrise": "6:45",
+          "sunset": "17:7"
+        },
+        "25": {
+          "engDate": "2025-12-11",
+          "weekday": "बि.",
+          "tithi": "7",
+          "nepaliDate": "2082-08-25",
+          "sunrise": "6:46",
+          "sunset": "17:8"
+        },
+        "26": {
+          "engDate": "2025-12-12",
+          "weekday": "शु.",
+          "tithi": "8",
+          "nepaliDate": "2082-08-26",
+          "sunrise": "6:46",
+          "sunset": "17:8"
+        },
+        "27": {
+          "engDate": "2025-12-13",
+          "weekday": "श.",
+          "tithi": "9",
+          "nepaliDate": "2082-08-27",
+          "sunrise": "6:47",
+          "sunset": "17:8"
+        },
+        "28": {
+          "engDate": "2025-12-14",
+          "weekday": "आ.",
+          "tithi": "10",
+          "nepaliDate": "2082-08-28",
+          "sunrise": "6:48",
+          "sunset": "17:9"
+        },
+        "29": {
+          "engDate": "2025-12-15",
+          "weekday": "सो.",
+          "tithi": "11",
+          "nepaliDate": "2082-08-29",
+          "sunrise": "6:48",
+          "sunset": "17:9"
+        }
+      }
+    },
+    "9": {
+      "monthName": "पौष (Dec / Jan)",
+      "days": 30,
+      "daysData": {
+        "1": {
+          "engDate": "2025-12-16",
+          "weekday": "मं.",
+          "tithi": "12",
+          "nepaliDate": "2082-09-01",
+          "sunrise": "6:49",
+          "sunset": "17:9"
+        },
+        "2": {
+          "engDate": "2025-12-17",
+          "weekday": "बु.",
+          "tithi": "13",
+          "nepaliDate": "2082-09-02",
+          "sunrise": "6:49",
+          "sunset": "17:10"
+        },
+        "3": {
+          "engDate": "2025-12-18",
+          "weekday": "बि.",
+          "tithi": "14",
+          "nepaliDate": "2082-09-03",
+          "sunrise": "6:50",
+          "sunset": "17:10"
+        },
+        "4": {
+          "engDate": "2025-12-19",
+          "weekday": "शु.",
+          "tithi": "30",
+          "nepaliDate": "2082-09-04",
+          "sunrise": "6:51",
+          "sunset": "17:11"
+        },
+        "5": {
+          "engDate": "2025-12-20",
+          "weekday": "श.",
+          "tithi": "1",
+          "nepaliDate": "2082-09-05",
+          "sunrise": "6:51",
+          "sunset": "17:11"
+        },
+        "6": {
+          "engDate": "2025-12-21",
+          "weekday": "आ.",
+          "tithi": "1",
+          "nepaliDate": "2082-09-06",
+          "sunrise": "6:52",
+          "sunset": "17:12"
+        },
+        "7": {
+          "engDate": "2025-12-22",
+          "weekday": "सो.",
+          "tithi": "2",
+          "nepaliDate": "2082-09-07",
+          "sunrise": "6:52",
+          "sunset": "17:12"
+        },
+        "8": {
+          "engDate": "2025-12-23",
+          "weekday": "मं.",
+          "tithi": "3",
+          "nepaliDate": "2082-09-08",
+          "sunrise": "6:53",
+          "sunset": "17:13"
+        },
+        "9": {
+          "engDate": "2025-12-24",
+          "weekday": "बु.",
+          "tithi": "4",
+          "nepaliDate": "2082-09-09",
+          "sunrise": "6:53",
+          "sunset": "17:13"
+        },
+        "10": {
+          "engDate": "2025-12-25",
+          "weekday": "बि.",
+          "tithi": "5",
+          "nepaliDate": "2082-09-10",
+          "sunrise": "6:54",
+          "sunset": "17:14"
+        },
+        "11": {
+          "engDate": "2025-12-26",
+          "weekday": "शु.",
+          "tithi": "6",
+          "nepaliDate": "2082-09-11",
+          "sunrise": "6:54",
+          "sunset": "17:14"
+        },
+        "12": {
+          "engDate": "2025-12-27",
+          "weekday": "श.",
+          "tithi": "7",
+          "nepaliDate": "2082-09-12",
+          "sunrise": "6:55",
+          "sunset": "17:15"
+        },
+        "13": {
+          "engDate": "2025-12-28",
+          "weekday": "आ.",
+          "tithi": "8",
+          "nepaliDate": "2082-09-13",
+          "sunrise": "6:55",
+          "sunset": "17:16"
+        },
+        "14": {
+          "engDate": "2025-12-29",
+          "weekday": "सो.",
+          "tithi": "10",
+          "nepaliDate": "2082-09-14",
+          "sunrise": "6:55",
+          "sunset": "17:16"
+        },
+        "15": {
+          "engDate": "2025-12-30",
+          "weekday": "मं.",
+          "tithi": "11",
+          "nepaliDate": "2082-09-15",
+          "sunrise": "6:56",
+          "sunset": "17:17"
+        },
+        "16": {
+          "engDate": "2025-12-31",
+          "weekday": "बु.",
+          "tithi": "12",
+          "nepaliDate": "2082-09-16",
+          "sunrise": "6:56",
+          "sunset": "17:18"
+        },
+        "17": {
+          "engDate": "2026-01-01",
+          "weekday": "बि.",
+          "tithi": "13",
+          "nepaliDate": "2082-09-17",
+          "sunrise": "6:56",
+          "sunset": "17:18"
+        },
+        "18": {
+          "engDate": "2026-01-02",
+          "weekday": "शु.",
+          "tithi": "14",
+          "nepaliDate": "2082-09-18",
+          "sunrise": "6:57",
+          "sunset": "17:19"
+        },
+        "19": {
+          "engDate": "2026-01-03",
+          "weekday": "श.",
+          "tithi": "15",
+          "nepaliDate": "2082-09-19",
+          "sunrise": "6:57",
+          "sunset": "17:20"
+        },
+        "20": {
+          "engDate": "2026-01-04",
+          "weekday": "आ.",
+          "tithi": "1",
+          "nepaliDate": "2082-09-20",
+          "sunrise": "6:57",
+          "sunset": "17:20"
+        },
+        "21": {
+          "engDate": "2026-01-05",
+          "weekday": "सो.",
+          "tithi": "2",
+          "nepaliDate": "2082-09-21",
+          "sunrise": "6:57",
+          "sunset": "17:21"
+        },
+        "22": {
+          "engDate": "2026-01-06",
+          "weekday": "मं.",
+          "tithi": "3",
+          "nepaliDate": "2082-09-22",
+          "sunrise": "6:57",
+          "sunset": "17:22"
+        },
+        "23": {
+          "engDate": "2026-01-07",
+          "weekday": "बु.",
+          "tithi": "4",
+          "nepaliDate": "2082-09-23",
+          "sunrise": "6:58",
+          "sunset": "17:23"
+        },
+        "24": {
+          "engDate": "2026-01-08",
+          "weekday": "बि.",
+          "tithi": "5",
+          "nepaliDate": "2082-09-24",
+          "sunrise": "6:58",
+          "sunset": "17:23"
+        },
+        "25": {
+          "engDate": "2026-01-09",
+          "weekday": "शु.",
+          "tithi": "6",
+          "nepaliDate": "2082-09-25",
+          "sunrise": "6:58",
+          "sunset": "17:24"
+        },
+        "26": {
+          "engDate": "2026-01-10",
+          "weekday": "श.",
+          "tithi": "7",
+          "nepaliDate": "2082-09-26",
+          "sunrise": "6:58",
+          "sunset": "17:25"
+        },
+        "27": {
+          "engDate": "2026-01-11",
+          "weekday": "आ.",
+          "tithi": "8",
+          "nepaliDate": "2082-09-27",
+          "sunrise": "6:58",
+          "sunset": "17:26"
+        },
+        "28": {
+          "engDate": "2026-01-12",
+          "weekday": "सो.",
+          "tithi": "9",
+          "nepaliDate": "2082-09-28",
+          "sunrise": "6:58",
+          "sunset": "17:27"
+        },
+        "29": {
+          "engDate": "2026-01-13",
+          "weekday": "मं.",
+          "tithi": "10",
+          "nepaliDate": "2082-09-29",
+          "sunrise": "6:58",
+          "sunset": "17:27"
+        },
+        "30": {
+          "engDate": "2026-01-14",
+          "weekday": "बु.",
+          "tithi": "11",
+          "nepaliDate": "2082-09-30",
+          "sunrise": "6:58",
+          "sunset": "17:28"
+        }
+      }
+    },
+    "10": {
+      "monthName": "माघ (Jan / Feb)",
+      "days": 29,
+      "daysData": {
+        "1": {
+          "engDate": "2026-01-15",
+          "weekday": "बि.",
+          "tithi": "12",
+          "nepaliDate": "2082-10-01",
+          "sunrise": "6:58",
+          "sunset": "17:29"
+        },
+        "2": {
+          "engDate": "2026-01-16",
+          "weekday": "शु.",
+          "tithi": "13",
+          "nepaliDate": "2082-10-02",
+          "sunrise": "6:58",
+          "sunset": "17:30"
+        },
+        "3": {
+          "engDate": "2026-01-17",
+          "weekday": "श.",
+          "tithi": "14",
+          "nepaliDate": "2082-10-03",
+          "sunrise": "6:58",
+          "sunset": "17:31"
+        },
+        "4": {
+          "engDate": "2026-01-18",
+          "weekday": "आ.",
+          "tithi": "30",
+          "nepaliDate": "2082-10-04",
+          "sunrise": "6:57",
+          "sunset": "17:32"
+        },
+        "5": {
+          "engDate": "2026-01-19",
+          "weekday": "सो.",
+          "tithi": "1",
+          "nepaliDate": "2082-10-05",
+          "sunrise": "6:57",
+          "sunset": "17:32"
+        },
+        "6": {
+          "engDate": "2026-01-20",
+          "weekday": "मं.",
+          "tithi": "2",
+          "nepaliDate": "2082-10-06",
+          "sunrise": "6:57",
+          "sunset": "17:33"
+        },
+        "7": {
+          "engDate": "2026-01-21",
+          "weekday": "बु.",
+          "tithi": "3",
+          "nepaliDate": "2082-10-07",
+          "sunrise": "6:57",
+          "sunset": "17:34"
+        },
+        "8": {
+          "engDate": "2026-01-22",
+          "weekday": "बि.",
+          "tithi": "4",
+          "nepaliDate": "2082-10-08",
+          "sunrise": "6:57",
+          "sunset": "17:35"
+        },
+        "9": {
+          "engDate": "2026-01-23",
+          "weekday": "शु.",
+          "tithi": "5",
+          "nepaliDate": "2082-10-09",
+          "sunrise": "6:56",
+          "sunset": "17:36"
+        },
+        "10": {
+          "engDate": "2026-01-24",
+          "weekday": "श.",
+          "tithi": "6",
+          "nepaliDate": "2082-10-10",
+          "sunrise": "6:56",
+          "sunset": "17:37"
+        },
+        "11": {
+          "engDate": "2026-01-25",
+          "weekday": "आ.",
+          "tithi": "7",
+          "nepaliDate": "2082-10-11",
+          "sunrise": "6:56",
+          "sunset": "17:37"
+        },
+        "12": {
+          "engDate": "2026-01-26",
+          "weekday": "सो.",
+          "tithi": "8",
+          "nepaliDate": "2082-10-12",
+          "sunrise": "6:55",
+          "sunset": "17:38"
+        },
+        "13": {
+          "engDate": "2026-01-27",
+          "weekday": "मं.",
+          "tithi": "9",
+          "nepaliDate": "2082-10-13",
+          "sunrise": "6:55",
+          "sunset": "17:39"
+        },
+        "14": {
+          "engDate": "2026-01-28",
+          "weekday": "बु.",
+          "tithi": "10",
+          "nepaliDate": "2082-10-14",
+          "sunrise": "6:55",
+          "sunset": "17:40"
+        },
+        "15": {
+          "engDate": "2026-01-29",
+          "weekday": "बि.",
+          "tithi": "11",
+          "nepaliDate": "2082-10-15",
+          "sunrise": "6:54",
+          "sunset": "17:41"
+        },
+        "16": {
+          "engDate": "2026-01-30",
+          "weekday": "शु.",
+          "tithi": "12",
+          "nepaliDate": "2082-10-16",
+          "sunrise": "6:54",
+          "sunset": "17:41"
+        },
+        "17": {
+          "engDate": "2026-01-31",
+          "weekday": "श.",
+          "tithi": "13",
+          "nepaliDate": "2082-10-17",
+          "sunrise": "6:53",
+          "sunset": "17:42"
+        },
+        "18": {
+          "engDate": "2026-02-01",
+          "weekday": "आ.",
+          "tithi": "15",
+          "nepaliDate": "2082-10-18",
+          "sunrise": "6:53",
+          "sunset": "17:43"
+        },
+        "19": {
+          "engDate": "2026-02-02",
+          "weekday": "सो.",
+          "tithi": "1",
+          "nepaliDate": "2082-10-19",
+          "sunrise": "6:52",
+          "sunset": "17:44"
+        },
+        "20": {
+          "engDate": "2026-02-03",
+          "weekday": "मं.",
+          "tithi": "2",
+          "nepaliDate": "2082-10-20",
+          "sunrise": "6:52",
+          "sunset": "17:45"
+        },
+        "21": {
+          "engDate": "2026-02-04",
+          "weekday": "बु.",
+          "tithi": "3",
+          "nepaliDate": "2082-10-21",
+          "sunrise": "6:51",
+          "sunset": "17:46"
+        },
+        "22": {
+          "engDate": "2026-02-05",
+          "weekday": "बि.",
+          "tithi": "4",
+          "nepaliDate": "2082-10-22",
+          "sunrise": "6:50",
+          "sunset": "17:46"
+        },
+        "23": {
+          "engDate": "2026-02-06",
+          "weekday": "शु.",
+          "tithi": "5",
+          "nepaliDate": "2082-10-23",
+          "sunrise": "6:50",
+          "sunset": "17:47"
+        },
+        "24": {
+          "engDate": "2026-02-07",
+          "weekday": "श.",
+          "tithi": "6",
+          "nepaliDate": "2082-10-24",
+          "sunrise": "6:49",
+          "sunset": "17:48"
+        },
+        "25": {
+          "engDate": "2026-02-08",
+          "weekday": "आ.",
+          "tithi": "7",
+          "nepaliDate": "2082-10-25",
+          "sunrise": "6:49",
+          "sunset": "17:49"
+        },
+        "26": {
+          "engDate": "2026-02-09",
+          "weekday": "सो.",
+          "tithi": "8",
+          "nepaliDate": "2082-10-26",
+          "sunrise": "6:48",
+          "sunset": "17:49"
+        },
+        "27": {
+          "engDate": "2026-02-10",
+          "weekday": "मं.",
+          "tithi": "8",
+          "nepaliDate": "2082-10-27",
+          "sunrise": "6:47",
+          "sunset": "17:50"
+        },
+        "28": {
+          "engDate": "2026-02-11",
+          "weekday": "बु.",
+          "tithi": "9",
+          "nepaliDate": "2082-10-28",
+          "sunrise": "6:46",
+          "sunset": "17:51"
+        },
+        "29": {
+          "engDate": "2026-02-12",
+          "weekday": "बि.",
+          "tithi": "10",
+          "nepaliDate": "2082-10-29",
+          "sunrise": "6:46",
+          "sunset": "17:52"
+        }
+      }
+    },
+    "11": {
+      "monthName": "फाल्गुण (Feb / March)",
+      "days": 30,
+      "daysData": {
+        "1": {
+          "engDate": "2026-02-13",
+          "weekday": "शु.",
+          "tithi": "11",
+          "nepaliDate": "2082-11-01",
+          "sunrise": "6:45",
+          "sunset": "17:52"
+        },
+        "2": {
+          "engDate": "2026-02-14",
+          "weekday": "श.",
+          "tithi": "12",
+          "nepaliDate": "2082-11-02",
+          "sunrise": "6:44",
+          "sunset": "17:53"
+        },
+        "3": {
+          "engDate": "2026-02-15",
+          "weekday": "आ.",
+          "tithi": "13",
+          "nepaliDate": "2082-11-03",
+          "sunrise": "6:43",
+          "sunset": "17:54"
+        },
+        "4": {
+          "engDate": "2026-02-16",
+          "weekday": "सो.",
+          "tithi": "14",
+          "nepaliDate": "2082-11-04",
+          "sunrise": "6:43",
+          "sunset": "17:55"
+        },
+        "5": {
+          "engDate": "2026-02-17",
+          "weekday": "मं.",
+          "tithi": "30",
+          "nepaliDate": "2082-11-05",
+          "sunrise": "6:42",
+          "sunset": "17:55"
+        },
+        "6": {
+          "engDate": "2026-02-18",
+          "weekday": "बु.",
+          "tithi": "1",
+          "nepaliDate": "2082-11-06",
+          "sunrise": "6:41",
+          "sunset": "17:56"
+        },
+        "7": {
+          "engDate": "2026-02-19",
+          "weekday": "बि.",
+          "tithi": "2",
+          "nepaliDate": "2082-11-07",
+          "sunrise": "6:40",
+          "sunset": "17:57"
+        },
+        "8": {
+          "engDate": "2026-02-20",
+          "weekday": "शु.",
+          "tithi": "3",
+          "nepaliDate": "2082-11-08",
+          "sunrise": "6:39",
+          "sunset": "17:57"
+        },
+        "9": {
+          "engDate": "2026-02-21",
+          "weekday": "श.",
+          "tithi": "4",
+          "nepaliDate": "2082-11-09",
+          "sunrise": "6:38",
+          "sunset": "17:58"
+        },
+        "10": {
+          "engDate": "2026-02-22",
+          "weekday": "आ.",
+          "tithi": "5",
+          "nepaliDate": "2082-11-10",
+          "sunrise": "6:37",
+          "sunset": "17:59"
+        },
+        "11": {
+          "engDate": "2026-02-23",
+          "weekday": "सो.",
+          "tithi": "6",
+          "nepaliDate": "2082-11-11",
+          "sunrise": "6:37",
+          "sunset": "17:59"
+        },
+        "12": {
+          "engDate": "2026-02-24",
+          "weekday": "मं.",
+          "tithi": "7",
+          "nepaliDate": "2082-11-12",
+          "sunrise": "6:36",
+          "sunset": "18:0"
+        },
+        "13": {
+          "engDate": "2026-02-25",
+          "weekday": "बु.",
+          "tithi": "9",
+          "nepaliDate": "2082-11-13",
+          "sunrise": "6:35",
+          "sunset": "18:1"
+        },
+        "14": {
+          "engDate": "2026-02-26",
+          "weekday": "बि.",
+          "tithi": "10",
+          "nepaliDate": "2082-11-14",
+          "sunrise": "6:34",
+          "sunset": "18:1"
+        },
+        "15": {
+          "engDate": "2026-02-27",
+          "weekday": "शु.",
+          "tithi": "11",
+          "nepaliDate": "2082-11-15",
+          "sunrise": "6:33",
+          "sunset": "18:2"
+        },
+        "16": {
+          "engDate": "2026-02-28",
+          "weekday": "श.",
+          "tithi": "12",
+          "nepaliDate": "2082-11-16",
+          "sunrise": "6:32",
+          "sunset": "18:3"
+        },
+        "17": {
+          "engDate": "2026-03-01",
+          "weekday": "आ.",
+          "tithi": "13",
+          "nepaliDate": "2082-11-17",
+          "sunrise": "6:31",
+          "sunset": "18:3"
+        },
+        "18": {
+          "engDate": "2026-03-02",
+          "weekday": "सो.",
+          "tithi": "14",
+          "nepaliDate": "2082-11-18",
+          "sunrise": "6:30",
+          "sunset": "18:4"
+        },
+        "19": {
+          "engDate": "2026-03-03",
+          "weekday": "मं.",
+          "tithi": "15",
+          "nepaliDate": "2082-11-19",
+          "sunrise": "6:29",
+          "sunset": "18:5"
+        },
+        "20": {
+          "engDate": "2026-03-04",
+          "weekday": "बु.",
+          "tithi": "1",
+          "nepaliDate": "2082-11-20",
+          "sunrise": "6:28",
+          "sunset": "18:5"
+        },
+        "21": {
+          "engDate": "2026-03-05",
+          "weekday": "बि.",
+          "tithi": "2",
+          "nepaliDate": "2082-11-21",
+          "sunrise": "6:27",
+          "sunset": "18:6"
+        },
+        "22": {
+          "engDate": "2026-03-06",
+          "weekday": "शु.",
+          "tithi": "3",
+          "nepaliDate": "2082-11-22",
+          "sunrise": "6:26",
+          "sunset": "18:6"
+        },
+        "23": {
+          "engDate": "2026-03-07",
+          "weekday": "श.",
+          "tithi": "4",
+          "nepaliDate": "2082-11-23",
+          "sunrise": "6:25",
+          "sunset": "18:7"
+        },
+        "24": {
+          "engDate": "2026-03-08",
+          "weekday": "आ.",
+          "tithi": "5",
+          "nepaliDate": "2082-11-24",
+          "sunrise": "6:23",
+          "sunset": "18:8"
+        },
+        "25": {
+          "engDate": "2026-03-09",
+          "weekday": "सो.",
+          "tithi": "6",
+          "nepaliDate": "2082-11-25",
+          "sunrise": "6:22",
+          "sunset": "18:8"
+        },
+        "26": {
+          "engDate": "2026-03-10",
+          "weekday": "मं.",
+          "tithi": "7",
+          "nepaliDate": "2082-11-26",
+          "sunrise": "6:21",
+          "sunset": "18:9"
+        },
+        "27": {
+          "engDate": "2026-03-11",
+          "weekday": "बु.",
+          "tithi": "8",
+          "nepaliDate": "2082-11-27",
+          "sunrise": "6:20",
+          "sunset": "18:9"
+        },
+        "28": {
+          "engDate": "2026-03-12",
+          "weekday": "बि.",
+          "tithi": "9",
+          "nepaliDate": "2082-11-28",
+          "sunrise": "6:19",
+          "sunset": "18:10"
+        },
+        "29": {
+          "engDate": "2026-03-13",
+          "weekday": "शु.",
+          "tithi": "10",
+          "nepaliDate": "2082-11-29",
+          "sunrise": "6:18",
+          "sunset": "18:10"
+        },
+        "30": {
+          "engDate": "2026-03-14",
+          "weekday": "श.",
+          "tithi": "10",
+          "nepaliDate": "2082-11-30",
+          "sunrise": "6:17",
+          "sunset": "18:11"
+        }
+      }
+    },
+    "12": {
+      "monthName": "चैत (March / April)",
+      "days": 30,
+      "daysData": {
+        "1": {
+          "engDate": "2026-03-15",
+          "weekday": "आ.",
+          "tithi": "11",
+          "nepaliDate": "2082-12-01",
+          "sunrise": "6:16",
+          "sunset": "18:12"
+        },
+        "2": {
+          "engDate": "2026-03-16",
+          "weekday": "सो.",
+          "tithi": "12",
+          "nepaliDate": "2082-12-02",
+          "sunrise": "6:15",
+          "sunset": "18:12"
+        },
+        "3": {
+          "engDate": "2026-03-17",
+          "weekday": "मं.",
+          "tithi": "13",
+          "nepaliDate": "2082-12-03",
+          "sunrise": "6:14",
+          "sunset": "18:13"
+        },
+        "4": {
+          "engDate": "2026-03-18",
+          "weekday": "बु.",
+          "tithi": "14",
+          "nepaliDate": "2082-12-04",
+          "sunrise": "6:13",
+          "sunset": "18:13"
+        },
+        "5": {
+          "engDate": "2026-03-19",
+          "weekday": "बि.",
+          "tithi": "15",
+          "nepaliDate": "2082-12-05",
+          "sunrise": "6:11",
+          "sunset": "18:14"
+        },
+        "6": {
+          "engDate": "2026-03-20",
+          "weekday": "शु.",
+          "tithi": "2",
+          "nepaliDate": "2082-12-06",
+          "sunrise": "6:10",
+          "sunset": "18:14"
+        },
+        "7": {
+          "engDate": "2026-03-21",
+          "weekday": "श.",
+          "tithi": "3",
+          "nepaliDate": "2082-12-07",
+          "sunrise": "6:9",
+          "sunset": "18:15"
+        },
+        "8": {
+          "engDate": "2026-03-22",
+          "weekday": "आ.",
+          "tithi": "4",
+          "nepaliDate": "2082-12-08",
+          "sunrise": "6:8",
+          "sunset": "18:15"
+        },
+        "9": {
+          "engDate": "2026-03-23",
+          "weekday": "सो.",
+          "tithi": "5",
+          "nepaliDate": "2082-12-09",
+          "sunrise": "6:7",
+          "sunset": "18:16"
+        },
+        "10": {
+          "engDate": "2026-03-24",
+          "weekday": "मं.",
+          "tithi": "6",
+          "nepaliDate": "2082-12-10",
+          "sunrise": "6:6",
+          "sunset": "18:16"
+        },
+        "11": {
+          "engDate": "2026-03-25",
+          "weekday": "बु.",
+          "tithi": "7",
+          "nepaliDate": "2082-12-11",
+          "sunrise": "6:5",
+          "sunset": "18:17"
+        },
+        "12": {
+          "engDate": "2026-03-26",
+          "weekday": "बि.",
+          "tithi": "8",
+          "nepaliDate": "2082-12-12",
+          "sunrise": "6:4",
+          "sunset": "18:17"
+        },
+        "13": {
+          "engDate": "2026-03-27",
+          "weekday": "शु.",
+          "tithi": "9",
+          "nepaliDate": "2082-12-13",
+          "sunrise": "6:2",
+          "sunset": "18:18"
+        },
+        "14": {
+          "engDate": "2026-03-28",
+          "weekday": "श.",
+          "tithi": "10",
+          "nepaliDate": "2082-12-14",
+          "sunrise": "6:1",
+          "sunset": "18:18"
+        },
+        "15": {
+          "engDate": "2026-03-29",
+          "weekday": "आ.",
+          "tithi": "11",
+          "nepaliDate": "2082-12-15",
+          "sunrise": "6:00",
+          "sunset": "18:19"
+        },
+        "16": {
+          "engDate": "2026-03-30",
+          "weekday": "सो.",
+          "tithi": "12",
+          "nepaliDate": "2082-12-16",
+          "sunrise": "5:59",
+          "sunset": "18:20"
+        },
+        "17": {
+          "engDate": "2026-03-31",
+          "weekday": "मं.",
+          "tithi": "13",
+          "nepaliDate": "2082-12-17",
+          "sunrise": "5:58",
+          "sunset": "18:20"
+        },
+        "18": {
+          "engDate": "2026-04-01",
+          "weekday": "बु.",
+          "tithi": "14",
+          "nepaliDate": "2082-12-18",
+          "sunrise": "5:57",
+          "sunset": "18:21"
+        },
+        "19": {
+          "engDate": "2026-04-02",
+          "weekday": "बि.",
+          "tithi": "15",
+          "nepaliDate": "2082-12-19",
+          "sunrise": "5:56",
+          "sunset": "18:21"
+        },
+        "20": {
+          "engDate": "2026-04-03",
+          "weekday": "शु.",
+          "tithi": "1",
+          "nepaliDate": "2082-12-20",
+          "sunrise": "5:55",
+          "sunset": "18:22"
+        },
+        "21": {
+          "engDate": "2026-04-04",
+          "weekday": "श.",
+          "tithi": "2",
+          "nepaliDate": "2082-12-21",
+          "sunrise": "5:53",
+          "sunset": "18:22"
+        },
+        "22": {
+          "engDate": "2026-04-05",
+          "weekday": "आ.",
+          "tithi": "3",
+          "nepaliDate": "2082-12-22",
+          "sunrise": "5:52",
+          "sunset": "18:23"
+        },
+        "23": {
+          "engDate": "2026-04-06",
+          "weekday": "सो.",
+          "tithi": "4",
+          "nepaliDate": "2082-12-23",
+          "sunrise": "5:51",
+          "sunset": "18:23"
+        },
+        "24": {
+          "engDate": "2026-04-07",
+          "weekday": "मं.",
+          "tithi": "5",
+          "nepaliDate": "2082-12-24",
+          "sunrise": "5:50",
+          "sunset": "18:24"
+        },
+        "25": {
+          "engDate": "2026-04-08",
+          "weekday": "बु.",
+          "tithi": "6",
+          "nepaliDate": "2082-12-25",
+          "sunrise": "5:49",
+          "sunset": "18:24"
+        },
+        "26": {
+          "engDate": "2026-04-09",
+          "weekday": "बि.",
+          "tithi": "7",
+          "nepaliDate": "2082-12-26",
+          "sunrise": "5:48",
+          "sunset": "18:25"
+        },
+        "27": {
+          "engDate": "2026-04-10",
+          "weekday": "शु.",
+          "tithi": "8",
+          "nepaliDate": "2082-12-27",
+          "sunrise": "5:47",
+          "sunset": "18:25"
+        },
+        "28": {
+          "engDate": "2026-04-11",
+          "weekday": "श.",
+          "tithi": "9",
+          "nepaliDate": "2082-12-28",
+          "sunrise": "5:46",
+          "sunset": "18:26"
+        },
+        "29": {
+          "engDate": "2026-04-12",
+          "weekday": "आ.",
+          "tithi": "10",
+          "nepaliDate": "2082-12-29",
+          "sunrise": "5:45",
+          "sunset": "18:26"
+        },
+        "30": {
+          "engDate": "2026-04-13",
+          "weekday": "सो.",
+          "tithi": "19",
+          "nepaliDate": "2082-12-30",
+          "sunrise": "5:44",
+          "sunset": "18:27"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Browse the Nepali Bikram Sambat calendar for 2082 and 2083, with Gregorian dates, tithi and events."
+    />
+    <title>Nepali Calendar · 2082–2083</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="page-shell topbar-inner">
+        <a class="brand" href="./" aria-label="Nepali calendar home">
+          <span class="brand-mark" aria-hidden="true">प</span>
+          <span class="brand-copy">
+            <strong>नेपाली पात्रो</strong>
+            <span>Every day, in two calendars</span>
+          </span>
+        </a>
+        <div class="year-picker">
+          <label for="year-select">Bikram Sambat year</label>
+          <select id="year-select" aria-label="Select Bikram Sambat year">
+            <option value="2082">2082 BS</option>
+            <option value="2083">2083 BS</option>
+          </select>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <section class="intro" aria-labelledby="page-title">
+        <p class="eyebrow">NEPAL · BIKRAM SAMBAT</p>
+        <h1 id="page-title">Your calendar, in both dates.</h1>
+        <p class="intro-copy">
+          Browse Nepali months alongside their English dates, daily tithi and
+          the festivals and observances listed for each day.
+        </p>
+      </section>
+
+      <p id="status-message" class="status-message" role="alert" hidden></p>
+
+      <section class="calendar-layout" aria-label="Nepali calendar">
+        <div class="calendar-card">
+          <div class="calendar-toolbar">
+            <div class="month-heading">
+              <div>
+                <select
+                  id="month-select"
+                  class="month-select"
+                  aria-label="Select Nepali month"
+                ></select>
+                <span id="month-summary" class="month-summary"></span>
+              </div>
+            </div>
+            <nav class="month-navigation" aria-label="Calendar month navigation">
+              <button
+                id="previous-month"
+                class="nav-button"
+                type="button"
+                aria-label="Previous month"
+              >
+                <span aria-hidden="true">‹</span>
+              </button>
+              <button
+                id="next-month"
+                class="nav-button"
+                type="button"
+                aria-label="Next month"
+              >
+                <span aria-hidden="true">›</span>
+              </button>
+            </nav>
+          </div>
+
+          <div id="weekday-headings" class="weekday-headings" aria-hidden="true"></div>
+          <div
+            id="calendar-grid"
+            class="calendar-grid"
+            role="group"
+            aria-label="Dates in the selected month"
+          ></div>
+          <div class="calendar-legend" aria-label="Calendar legend">
+            <span class="legend-item">
+              <span class="legend-dot" aria-hidden="true"></span>
+              Event listed
+            </span>
+            <span class="legend-item">
+              <span class="legend-holiday" aria-hidden="true"></span>
+              Public holiday
+            </span>
+          </div>
+        </div>
+
+        <aside class="sidebar" aria-label="Date details and monthly events">
+          <section class="side-card" aria-labelledby="selected-heading">
+            <p id="selected-heading" class="section-kicker">Selected date</p>
+            <div id="selected-date" aria-live="polite"></div>
+          </section>
+
+          <section class="side-card events-card" aria-labelledby="events-heading">
+            <div class="events-heading">
+              <p id="events-heading" class="section-kicker">This month’s events</p>
+              <span id="event-count" class="event-count" aria-label="Dates with events">0</span>
+            </div>
+            <div id="event-list" class="event-list"></div>
+          </section>
+        </aside>
+      </section>
+
+      <p class="source-note">
+        2082 data provided locally. 2083 tithi, event and holiday data adapted
+        from the
+        <a
+          href="https://github.com/sajanm/nepali-lunar-calendar-events/blob/81a8d318d6fb1c897fb76908389517c6fe289a55/2083.json"
+          target="_blank"
+          rel="noreferrer"
+        >Nepali Lunar Calendar Events dataset</a>.
+        Holiday listings are presented as published and should be checked
+        against official notices.
+      </p>
+    </main>
+  </body>
+</html>
